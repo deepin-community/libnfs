@@ -1,2 +1,3 @@
 0001-Skip-failing-tests.patch
 0002-Skip-failing-nfs_fstat64-test.patch
+CVE-2026-53689.patch
