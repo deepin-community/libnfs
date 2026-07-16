@@ -1,3 +1,9 @@
+libnfs (4.0.0-1deepin1) unstable; urgency=medium
+
+  * fix(cve): CVE-2026-53689
+
+ -- deepin-ci-robot <packages@deepin.org>  Thu, 16 Jul 2026 23:00:05 +0800
+
 libnfs (4.0.0-1) unstable; urgency=medium
 
   * Simplify Salsa CI configuration
